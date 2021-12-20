@@ -1,0 +1,41 @@
+﻿
+.menu {
+    display: flex;
+    justify-content: space-around;
+}
+
+.links {
+    list-style: none;
+    display: flex;
+    align-self: center;
+}
+
+.ref {
+    display: flex;
+    padding: 5px;
+}
+
+.ancora {
+    text-decoration: none;
+    background-color: blue;
+    color: black;
+    padding: 10px;
+}
+
+.form {
+    display: black;
+    text-align: center;
+    background-color: chocolate;
+    height: 200px;
+}
+
+.art {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+}
